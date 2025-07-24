@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HRSH455
 - 👀 I’m interested in Web3,AI
-- 🌱 I’m currently learning DSA,Blockchain
+- 🌱 I’m currently learning Java FullStack and Blockchain
 - 📫 How to reach me :bommiharsha7@gmail.com
 
 <!---
