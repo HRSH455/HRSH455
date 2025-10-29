@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-Senior DevOps Engineer and Full-Stack Developer specializing in cloud infrastructure, automation, and decentralized technologies. Passionate about building scalable systems and exploring the intersection of traditional development practices with emerging Web3 ecosystems.
+Full-Stack Developer specializing in cloud infrastructure, automation. Passionate about building scalable systems and exploring the intersection of traditional development practices with emerging Web3 ecosystems.
 
 Currently focused on Java Full-Stack development while deepening expertise in Blockchain technologies and DevOps best practices.
 
 ## 💻 Skills & Expertise
 
 ### Programming Languages
-Java • JavaScript • PowerShell • PHP • Python • HTML/CSS
+Java • JavaScript • PowerShell • Python • HTML/CSS • TypeScript
 
 ### Technologies & Domains
 - **DevOps & Infrastructure**: CI/CD Pipelines, Infrastructure as Code, Security Automation
@@ -48,7 +48,7 @@ Multi-language translation platform with OCR capabilities, specializing in ethni
 
 📧 **Email**: [bommiharsha7@gmail.com](mailto:bommiharsha7@gmail.com)
 
-💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/harsha-b)
+💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/harshavardhan-bommi)
 
 ---
 
